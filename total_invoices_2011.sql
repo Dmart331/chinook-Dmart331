@@ -1,0 +1,1 @@
+SELECT InvoiceDate as Total_Invoices_for_11 FROM Invoice WHERE InvoiceDate BETWEEN "2010/12/32" AND "2011/12/31" 
