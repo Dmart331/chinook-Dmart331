@@ -1,0 +1,1 @@
+SELECT firstName, lastName, Country FROM Customer WHERE Country != 'USA'
